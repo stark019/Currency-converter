@@ -1,0 +1,28 @@
+input{
+width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.box1{
+	padding:15px;
+	margin:auto;
+	background-color:royalblue;
+	color:white;
+	border:30px;
+	font-size:32px;
+}
+.box2{
+	padding:15px;
+	margin:auto;
+	background-color:lawngreen;
+	color:white;
+	font-size:32px;
+}
+.box3{
+	padding:15px;
+	margin:auto;
+	background-color:orange;
+	color:white;
+	font-size:32px;
+}
